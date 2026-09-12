@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/me_avatar.jpg" width="180px" alt="Avatar de Ian Medeiros Martins">
-
 # 👋 Olá, eu sou Ian Medeiros Martins!
+
+<img src="./assets/me_avatar.jpg" width="180px" alt="Avatar de Ian Medeiros Martins">
 
 ### 💻 Estudante de Sistemas de Informação | Técnico em ADS | Desenvolvedor em formação
 
