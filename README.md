@@ -95,14 +95,6 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, sem me li
 
 ## 📊 GitHub
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanMedeirosMartins&show_icons=true&theme=dark&hide_border=true&title_color=D52226&icon_color=D52226&text_color=FFFFFF&bg_color=151319"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanMedeirosMartins&layout=compact&theme=dark&hide_border=true&title_color=D52226&text_color=FFFFFF&bg_color=151319"/>
-
-</div>
-
 <br>
 
 <picture>
