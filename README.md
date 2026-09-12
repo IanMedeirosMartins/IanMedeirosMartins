@@ -132,12 +132,12 @@ Concluído
 </a>
 
 
-<a href="www.linkedin.com/in/ianmedeirosmartinss">
+<a href="www.linkedin.com/in/ianmedeirosmartins">
   <img src="https://img.shields.io/badge/LinkedIn-151319?style=for-the-badge&logo=linkedin&logoColor=D52226">
 </a>
 
 
-<a href="ianmedeiros__">
+<a href="https://www.instagram.com/ianmedeiros__">
   <img src="https://img.shields.io/badge/Instagram-151319?style=for-the-badge&logo=instagram&logoColor=D52226">
 </a>
 
