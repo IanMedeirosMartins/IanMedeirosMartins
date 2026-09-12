@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="180px" alt="Avatar de Ian Medeiros Martins">
+<img src="./assets/me_avatar.png" width="180px" alt="Avatar de Ian Medeiros Martins">
 
 # 👋 Olá, eu sou Ian Medeiros Martins!
 
