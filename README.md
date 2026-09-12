@@ -131,12 +131,12 @@ Concluído
   <img src="https://img.shields.io/badge/GitHub-D52226?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<!-- Coloque seu LinkedIn abaixo -->
-<a href="in/ianmedeirosmartinss">
+
+<a href="www.linkedin.com/in/ianmedeirosmartinss">
   <img src="https://img.shields.io/badge/LinkedIn-151319?style=for-the-badge&logo=linkedin&logoColor=D52226">
 </a>
 
-<!-- Coloque seu Instagram abaixo, se quiser -->
+
 <a href="ianmedeiros__">
   <img src="https://img.shields.io/badge/Instagram-151319?style=for-the-badge&logo=instagram&logoColor=D52226">
 </a>
