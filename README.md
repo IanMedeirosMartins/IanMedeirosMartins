@@ -132,7 +132,7 @@ Concluído
 </a>
 
 
-<a href="www.linkedin.com/in/ianmedeirosmartins">
+<a href="https://www.linkedin.com/in/ianmedeirosmartinss/">
   <img src="https://img.shields.io/badge/LinkedIn-151319?style=for-the-badge&logo=linkedin&logoColor=D52226">
 </a>
 
