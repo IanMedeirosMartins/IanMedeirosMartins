@@ -1,16 +1,29 @@
 <div align="center">
 
-# Hello Word!!!, eu sou Ian Medeiros Martins!
+<h1 class="typing-text">Hello Word!!!, eu sou Ian Medeiros Martins!</h1>
 
 <img src="./assets/me_avatar.jpg" width="180px" alt="Avatar de Ian Medeiros Martins">
 
 ### 💻 Estudante de Sistemas de Informação | Técnico em ADS | Desenvolvedor em formação
-
+<div align="center">
 <p>
   <a href="https://github.com/IanMedeirosMartins">
     <img src="https://img.shields.io/badge/GitHub-IanMedeirosMartins-151319?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+
+
+<a href="https://www.linkedin.com/in/ianmedeirosmartinss/">
+  <img src="https://img.shields.io/badge/LinkedIn-151319?style=for-the-badge&logo=linkedin&logoColor=D52226">
+</a>
+
+
+<a href="https://www.instagram.com/ianmedeiros__">
+  <img src="https://img.shields.io/badge/Instagram-151319?style=for-the-badge&logo=instagram&logoColor=D52226">
+</a>
 </p>
+
+</div>
 
 </div>
 
@@ -97,52 +110,6 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, sem me li
 <img src="https://streak-stats.demolab.com?user=IanMedeirosMartins&theme=dark&hide_border=true&background=151319&ring=D52226&fire=D52226&currStreakLabel=D52226" width="90%">
 
 </div>
-
----
-
-## 📚 Formação
-
-🎓 **Sistemas de Informação**  
-Graduação em andamento
-
-📜 **Técnico em Análise e Desenvolvimento de Sistemas (ADS)**  
-Concluído
-
----
-
-## 🎯 Atualmente
-
-```text
-📖 Estudando        → Sistemas de Informação
-💻 Desenvolvendo    → Projetos acadêmicos e pessoais
-🐍 Aprimorando      → Python
-🌐 Praticando       → JavaScript / HTML / CSS
-⚛️ Explorando       → React / React Native
-🚀 Buscando         → Evolução profissional na área de tecnologia
-```
-
----
-
-## 🌐 Onde me encontrar
-
-<div align="center">
-
-<a href="https://github.com/IanMedeirosMartins">
-  <img src="https://img.shields.io/badge/GitHub-D52226?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-
-<a href="https://www.linkedin.com/in/ianmedeirosmartinss/">
-  <img src="https://img.shields.io/badge/LinkedIn-151319?style=for-the-badge&logo=linkedin&logoColor=D52226">
-</a>
-
-
-<a href="https://www.instagram.com/ianmedeiros__">
-  <img src="https://img.shields.io/badge/Instagram-151319?style=for-the-badge&logo=instagram&logoColor=D52226">
-</a>
-
-</div>
-
 ---
 
 <div align="center">
@@ -152,3 +119,5 @@ Concluído
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D52226&height=100&section=footer">
 
 </div>
+
+
