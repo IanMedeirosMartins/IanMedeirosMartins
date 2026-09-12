@@ -105,6 +105,12 @@ Meu objetivo é construir uma carreira sólida na área de tecnologia, sem me li
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IanMedeirosMartins/IanMedeirosMartins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IanMedeirosMartins/IanMedeirosMartins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IanMedeirosMartins/IanMedeirosMartins/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=IanMedeirosMartins&theme=dark&hide_border=true&background=151319&ring=D52226&fire=D52226&currStreakLabel=D52226" width="90%">
