@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Ian Medeiros Martins!
+# Hello Word!!!, eu sou Ian Medeiros Martins!
 
 <img src="./assets/me_avatar.jpg" width="180px" alt="Avatar de Ian Medeiros Martins">
 
